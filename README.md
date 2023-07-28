@@ -1,2 +1,1 @@
-# Uber-expenses-tracking
-Building an ETL pipeline with Apache Airflow and Visualizing AWS Redshift data using Microsoft Power BI
+# Building an ETL pipeline with Apache Airflow and Visualizing AWS Redshift data using Microsoft Power BI
